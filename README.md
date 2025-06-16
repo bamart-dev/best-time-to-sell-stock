@@ -10,13 +10,13 @@ given an input `prices`, a list containing the price of a given stock on the `it
 
 
 #### Example 1:
-Input: `prices = [7,1,5,3,6,4]`
+Input: `prices = [7,1,5,3,6,4]`\
 Output: 7
 
 #### Example 2
-Input: [1,2,3,4,5]
+Input: [1,2,3,4,5]\
 Output: 4
 
 #### Example 3
-Input: [7,6,4,3,1]
+Input: [7,6,4,3,1]\
 Output: 0
